@@ -1,0 +1,11 @@
+C:\Users\Домашний\Desktop\ИСП\ЛР3\ЛР3\bin\Debug\netcoreapp3.1\ЛР3.exe
+C:\Users\Домашний\Desktop\ИСП\ЛР3\ЛР3\bin\Debug\netcoreapp3.1\ЛР3.deps.json
+C:\Users\Домашний\Desktop\ИСП\ЛР3\ЛР3\bin\Debug\netcoreapp3.1\ЛР3.runtimeconfig.json
+C:\Users\Домашний\Desktop\ИСП\ЛР3\ЛР3\bin\Debug\netcoreapp3.1\ЛР3.runtimeconfig.dev.json
+C:\Users\Домашний\Desktop\ИСП\ЛР3\ЛР3\bin\Debug\netcoreapp3.1\ЛР3.dll
+C:\Users\Домашний\Desktop\ИСП\ЛР3\ЛР3\bin\Debug\netcoreapp3.1\ЛР3.pdb
+C:\Users\Домашний\Desktop\ИСП\ЛР3\ЛР3\obj\Debug\netcoreapp3.1\ЛР3.csprojAssemblyReference.cache
+C:\Users\Домашний\Desktop\ИСП\ЛР3\ЛР3\obj\Debug\netcoreapp3.1\ЛР3.AssemblyInfoInputs.cache
+C:\Users\Домашний\Desktop\ИСП\ЛР3\ЛР3\obj\Debug\netcoreapp3.1\ЛР3.AssemblyInfo.cs
+C:\Users\Домашний\Desktop\ИСП\ЛР3\ЛР3\obj\Debug\netcoreapp3.1\ЛР3.dll
+C:\Users\Домашний\Desktop\ИСП\ЛР3\ЛР3\obj\Debug\netcoreapp3.1\ЛР3.pdb
